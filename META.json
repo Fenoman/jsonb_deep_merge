@@ -4,8 +4,8 @@
   "license": "mit",
   "provides": {
       "jsonb_deep_merge": {
-        "file": "jsonb_deep_merge--0.0.2.sql",
-        "version": "0.0.2"
+        "file": "jsonb_deep_merge--1.0.0.sql",
+        "version": "1.0.0"
       }
   },
   "meta-spec": {
@@ -13,7 +13,7 @@
     "url": "http://pgxn.org/meta/spec.txt"
   },
   "name": "jsonb_deep_merge",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "jsonb_deep_merge offers functions to merge jsonb recursively",
   "resources": {
     "repository": {
